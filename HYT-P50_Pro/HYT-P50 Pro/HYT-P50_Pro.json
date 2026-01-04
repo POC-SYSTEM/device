@@ -4,7 +4,7 @@
   "textMarquee" : false,
   "hwPttToggle" : false,
   "pttBukaAplikasi" : true,
-  "pttButton" : 131,
+  "pttButton" : 132,
   "autoScreenOnAlways" : "yes",
   "autoHideHeader" : true,
   "micGain" : 1,
