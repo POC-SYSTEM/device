@@ -7,15 +7,13 @@
   "pttButton" : 132,
   "autoScreenOnAlways" : "yes",
   "autoHideHeader" : true,
-  "micGain" : 1,
-  "notifVolume" : 30,
+  "notifVolume" : 65,
   "micType" : 7,
   "incomingVolume" : 95,
-  "prevButton" : 10,
-  "nextButton" : 23,
+  "prevButton" : 135,
+  "nextButton" : 136,
   "bitrate" : "32000",
   "samplerate" : "16000",
   "internalPTT" : "yes",
   "mic_quality" : "AUDIO",
-  "font_scale" : "1.6"
 }
