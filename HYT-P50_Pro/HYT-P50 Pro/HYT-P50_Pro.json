@@ -17,5 +17,5 @@
   "samplerate" : "16000",
   "internalPTT" : "yes",
   "mic_quality" : "AUDIO",
-  "font_scale" : "1.6f"
+  "font_scale" : "1.6"
 }
