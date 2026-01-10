@@ -1,6 +1,6 @@
 {
   "showPttScreen" : false,
-  "setFullScreen" : false,
+  "setFullScreen" : true,
   "textMarquee" : true,
   "hwPttToggle" : false,
   "pttBukaAplikasi" : true,
