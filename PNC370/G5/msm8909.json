@@ -1,0 +1,22 @@
+{
+  "showPttScreen" : false,
+  "setFullScreen" : false,
+  "textMarquee" : true,
+  "hwPttToggle" : false,
+  "pttBukaAplikasi" : true,
+  "pttButton" : 131,
+  "autoScreenOnAlways" : "yes",
+  "autoHideHeader" : true,
+  "notifVolume" : 20,
+  "micType" : 7,
+  "incomingVolume" : 20,
+  "nextButton" : 137,
+  "prevButton" : 138,
+  "bitrate" : "32000",
+  "samplerate" : "16000",
+  "internalPTT" : "yes",
+  "mic_quality" : "VOICE",
+  "mic_gain" : 3,
+  "font_scale" : "1.1",
+  "tema" : "Analog Osaka"
+}
