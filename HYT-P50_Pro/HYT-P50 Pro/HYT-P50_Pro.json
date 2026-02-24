@@ -8,7 +8,7 @@
 	"autoScreenOnAlways": "yes",
 	"autoHideHeader": true,
 	"notifVolume": 65,
-	"micType": 7,
+	"micType": 1,
 	"incomingVolume": 95,
 	"prevButton": 135,
 	"nextButton": 136,
