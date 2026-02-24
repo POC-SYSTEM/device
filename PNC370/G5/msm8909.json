@@ -14,7 +14,7 @@
 	"samplerate": "16000",
 	"internalPTT": "no",
 	"mic_quality": "VOICE",
-	"mic_gain": 3,
+	"mic_gain": 1,
 	"font_scale": "1.1",
 	"tema": "Analog Osaka"
 }
