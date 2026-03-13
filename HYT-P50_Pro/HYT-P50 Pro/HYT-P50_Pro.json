@@ -9,6 +9,7 @@
 	"autoHideHeader": true,
 	"notifVolume": 65,
 	"micType": 1,
+	"micGain": 1,
 	"incomingVolume": 95,
 	"prevButton": 135,
 	"nextButton": 136,
